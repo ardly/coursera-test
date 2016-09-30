@@ -15,7 +15,11 @@ body {
 	background: url('../images/chineselogo.jpeg') no-repeat;
 	width: 150px;
 	height: 150px;
+<<<<<<< HEAD
 	margin: 10px 15px 10px 0;
+=======
+	margin: 10px 15px 10px 20px;
+>>>>>>> fa28ebaa02ed61af1bedcff146a11bfe55e2ebb2
 
 
 }
